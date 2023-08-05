@@ -1,0 +1,23 @@
+
+Actions class -- clickAndHold(WebElement target)
+				 moveToElement(WebElement target)
+				 release(WebElement target)
+				 contextClick(WebElement target)
+				 dragAndDrop(WebElement source, WebElement target)
+				 
+Select class -- selectByIndex
+				selectByVisibleText
+				selectByValue
+				getOptions()
+				
+				
+				
+Selenium 4 features:
+W3c 
+action.scrollToElement
+RelativeLocators
+
+How to pause/freeze the disappeared elements
+
+1. Blur property in EventListener in Inspect Element
+2. CLicking on F8 in console

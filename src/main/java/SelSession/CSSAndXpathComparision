@@ -1,0 +1,18 @@
+
+						Xpath				 CSS
+Syntax				   Complex			    Simple
+text()					Yes					No
+AND						Yes				    Yes
+OR						Yes				    Yes
+forward					Yes				    Yes
+Backward				Yes				    No
+forward-sibling			Yes				    Yes
+Backward-Sibling		Yes				    No
+not:					No					Yes
+index					Yes					Yes
+capture group			Yes					No
+performance				Good				Good
+starts-with				Yes					Yes
+ends-with				No					Yes
+contains				Yes					Yes
+WebTable				Yes					Limited

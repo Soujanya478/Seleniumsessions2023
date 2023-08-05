@@ -1,0 +1,10 @@
+When try the enter the text in disabled field --> ElementNotinteractable
+When passing the null in sendkeys method      --> IllegalArgumentException
+When Passing the wrong element                --> NoSuchElement Exceptions 
+
+pseudo elements are such elements that starts with double colon --> ::before / ::after --> handled using java script
+
+
+ctrl O --> open all data members in class
+click infront of the text you want to select and press shift and take the cursor to the end of the text
+
